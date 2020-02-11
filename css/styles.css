@@ -1,0 +1,103 @@
+body {
+  color:#40514E;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size:100%;
+}
+h1 {
+  color: #66BFBF;
+  line-height:2;
+  margin-top:0;
+  font-family: 'Sacramento', cursive;
+  font-size:3rem;
+
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:normal;
+
+}
+h3 {
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+
+}
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom:none;
+  width:4%;
+  margin:100px auto;
+}
+.top-container{
+  color:#66BFBF;
+
+  background-color:#E4F9F5;
+
+}
+.middle-container{
+  margin: 100px 0;
+
+
+
+}
+
+.bottom-container{
+background-color: #11999E;
+position:relative;
+height:100px;
+bottom:20px;
+
+
+}
+.Web{
+  text-decoration: underline;
+}
+.Website{
+
+  width:300px;
+  height:300px;
+
+}
+
+.bottom-cloud {
+  position:relative;
+  right:200px;
+  bottom:400px;
+}
+.top-cloud {
+  position:relative;
+  left:250px;
+}
+.Icon {
+width:100px;
+height:100px;
+}
+.skills{
+color:green;
+
+}
+.red{
+background-color:green;
+}
+.A Web Developer {
+color: #66BFBF;
+}
+.contact-me{
+  color:green;
+}
+.year {
+  color:red;
+}
+.Certification {
+  color:red;
+}
+.paragraph {
+  width: 30%
+  margin:auto;
+  color:green;
+}
+.btn {
+  background-color:green;
+}
